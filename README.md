@@ -1,1 +1,1 @@
-# Machine-Learning-Application
+# Machine Learning Application
